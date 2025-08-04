@@ -1,13 +1,14 @@
-displayName: "Mapping Utilities"
+displayName: "Mapping Utilities V8 (149)"
 
-name: "mapping-utilities"
+name: "mapping-utilitiesv8"
 
-author: "ApsZoldat"
+author: "AyamAyam35"
 
 main: "mu.MapUtilitiesMod"
 
 description: 
     '''
+    >Now V8!
     > This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.
 
 
@@ -28,11 +29,11 @@ description:
     More map making tools will be added in future
     '''
 
-repo: "ApsZoldat/MindustryMappingUtilities"
+repo: "AyamAyam35/MindustryMappingUtilitiesv8"
 
 version: 1.8
 
-minGameVersion: 147
+minGameVersion: 149
 
 java: true
 
